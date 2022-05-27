@@ -100,6 +100,6 @@ class PubSub():
         print(res.ok)
 
 loop = asyncio.get_event_loop()
-subs = ["https://www.youtube.com/xml/feeds/videos.xml?channel_id=UCuyLAsq7sOBrARgGnGJbNgw"]
+subs = ["https://www.youtube.com/xml/feeds/videos.xml?channel_id=CHANNEL_ID"]
 pubsub = PubSub(4040, subs, loop)
 asyncio.run(pubsub.start_app())
