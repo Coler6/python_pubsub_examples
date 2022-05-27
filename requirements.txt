@@ -1,0 +1,4 @@
+pyngrok
+bs4
+aiohttp
+nest_asyncio
