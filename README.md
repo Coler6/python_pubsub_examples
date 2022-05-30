@@ -10,3 +10,5 @@ Problems:
 If you have a solution please open a Pull Request or issue!
 
 Hope this helps! You can join my discord https://discord.gg/A8MXcQBKpf or open a issue if you have a problem with it.
+
+Notice: After 5 days the pubsubhubbub subscription will expire. You can simply create a task and resubscribe every 5 days.
